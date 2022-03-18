@@ -1,0 +1,31 @@
+.body{
+    background-color:rgb(150, 138, 138);
+}
+.info{
+    position:absolute;
+    top:130px;
+    left:750px;
+    color:rgb(247, 247, 247);
+
+}
+.cont1{
+    padding-left:170px;margin-top:140px;
+}
+.cont2{
+    padding-left:150px;margin-top:3px;
+}
+.h1{
+    font-size:40pt;"> style="color:rgb(105, 40, 40);
+}
+#menu{
+    background-color:rgb(150, 138, 138);width:150px;height:700px;float:left;
+}
+#content{
+    background-color:rgb(150, 138, 138);float:left;width:700px;height:1800px;
+}
+.h2{
+    font-size:25pt;
+}
+th{
+    font-size:15px;
+}
